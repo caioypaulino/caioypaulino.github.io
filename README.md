@@ -2,7 +2,7 @@
 
 ## Engenheiro-Analista de Dados
 
-#### Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Skills: SQL, Python, Power BI, Excel
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
