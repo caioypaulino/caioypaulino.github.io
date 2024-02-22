@@ -29,6 +29,6 @@ Sheets
 
 Este projeto consiste na construção e administração de um Banco de Dados **Oracle**, onde todo o processo, desde a modelagem até a documentação, foi realizado. Utilizando **Oracle SQL Server** e Data Modeler para desenvolvimento e modelagem, respectivamente, o sistema foi documentado no Microsoft Word. O objetivo é fornecer um controle eficiente das vendas de uma loja de hardware e suprimentos para informática, considerando detalhes como fornecedores, materiais, vendas e funcionários. Os dados, embora fictícios, foram cuidadosamente elaborados para garantir consistência. Além disso, consultas estratégicas foram implementadas para análises específicas, como a quantidade vendida de cada material no último mês. O Power BI foi utilizado para análises visuais adicionais, proporcionando uma compreensão mais clara dos dados. Todos os detalhes, incluindo modelos lógicos e relacionais, tabelas de auditoria e stage, estão disponíveis no repositório do projeto.
 
-![Oracle Database](https://github.com/caioypaulino/caioypaulino.github.io/blob/main/assets/img/Oracle.jpg)
+![Oracle Database](/assets/img/Oracle.jpg)
 
 ## Certificações e Cursos
