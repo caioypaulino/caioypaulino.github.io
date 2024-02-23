@@ -61,6 +61,8 @@ Sheets
 
 <p align="justify">Para este Mini Projeto de Dashboard interativo de vendas com <b>Excel</b>, foram utilizados dados fictícios e aleatórios gerados pela função =RANDBETWEEN(). O dashboard simples, contendo todas as análises necessárias, foi construído a partir de <b>Pivot Tables (Tabelas Dinâmicas)</b> no Excel. Essa abordagem permitiu a criação de visualizações dinâmicas e interativas para explorar os dados de vendas de forma eficaz.</p>
 
+-----------------------
+
 ## Sobre Mim
 <p align="justify">Prazer! Meu nome é Caio. Nasci no dia 20 de Dezembro de 2002 (21 anos) e atualmente moro em Itaquaquecetuba - SP.</p>
 
