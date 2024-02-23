@@ -29,11 +29,15 @@ Sheets
 
 <p align="justify">Este projeto consiste na construção e administração de um Banco de Dados <b>Oracle</b>, onde todo o processo, desde a modelagem até a documentação, foi realizado. Utilizando <b>Oracle SQL Server</b> e Data Modeler para desenvolvimento e modelagem, respectivamente, o sistema foi documentado no Microsoft Word. O objetivo é fornecer um controle eficiente das vendas de uma loja de hardware e suprimentos para informática, considerando detalhes como fornecedores, materiais, vendas e funcionários. Os dados, embora fictícios, foram cuidadosamente elaborados para garantir consistência. Além disso, consultas estratégicas foram implementadas para análises específicas, como a quantidade vendida de cada material no último mês. O Power BI foi utilizado para análises visuais adicionais, proporcionando uma compreensão mais clara dos dados. Todos os detalhes, incluindo modelos lógicos e relacionais, tabelas de auditoria e stage, estão disponíveis no repositório do projeto.</p>
 
+-----------------------
+
 ### Pipeline de Análise de Dados: London Bike Sharing (Python e Tableau)
 ![Tableau](/assets/img/Tableau.jpg)
 [Acesso Repositório Github](https://github.com/caioypaulino/Projeto-Coletar_Visualizar_Dados)
  
 <p align="justify">O trabalho apresenta um pipeline de análise de dados que combina habilidades em <b>Python</b> e <b>Tableau</b>. Inicia-se com a obtenção de dados por meio da API Kaggle, seguido pela manipulação dos dados usando a biblioteca pandas em Python. Posteriormente, os dados são exportados para um arquivo Excel (.xlsx) para facilitar o uso e, finalmente, são visualizados em um dashboard interativo criado no Tableau. O conjunto de dados utilizado é o "London Bike Sharing Dataset" disponível no Kaggle, que oferece uma visão interessante sobre o uso de bicicletas na cidade de Londres. Este projeto ilustra não apenas as etapas essenciais na análise de dados, mas também demonstra como essas informações podem ser interpretadas visualmente para insights significativos.</p>
+
+-----------------------
 
 ### Análise de Mercado: Videogame Sales (Databricks e SQL)
 ![Databricks](/assets/img/Databricks.jpg)
@@ -41,11 +45,15 @@ Sheets
 
 <p align="justify">Nesta iniciativa, foi explorado a análise e a apresentação de dados por meio da plataforma <b>Databricks</b> e linguagem <b>SQL</b>. Inicialmente, foi inserido um conjunto de dados do Kaggle contendo informações sobre vendas de videogames. Em seguida, utilizando SQL em notebooks da plataforma Databricks, os dados foram manipulados e analisados para responder a uma série de perguntas de negócio. Estas questões, geradas com a assistência do ChatGPT como "Stakeholder", incluem investigações sobre a distribuição de vendas globais por plataforma, a relação entre anos de lançamento e vendas, a participação de mercado dos principais editores, entre outros aspectos. O resultado final é um dashboard de análise de mercado, estruturado a partir dos insights gerados no notebook do Databricks. Esta jornada ilustra não apenas a habilidade de analisar dados eficientemente usando SQL, mas também a importância de apresentar essas análises de maneira clara e acessível.</p>
 
+-----------------------
+
 ### Processamento de Big Data (PySpark)
 ![PySpark](/assets/img/PySpark.jpg)
 [Acesso Repositório Github](https://github.com/caioypaulino/Projeto-BigData_Analytics_PySpark)
 
 <p align="justify">Nesta incursão pelo processamento de <b>Big Data</b> com <b>PySpark</b>, foi possível explorar operações fundamentais envolvidas nesse contexto, desde a limpeza e transformação dos dados até a geração de insights. Utilizando tanto o poder do PySpark para processamento de dados quanto as capacidades de manipulação e visualização oferecidas pelas bibliotecas <b>Python (Pandas, Matplotlib e Seaborn)</b>, buscou-se desvendar padrões e tendências nos dados. Via plataforma Bright Data, os dados foram extraídos do Sample (amostra) de um Dataset de Produtos Eletrônicos Amazon, selecionados para exemplificar as operações de Big Data. Embora limitado a apenas 1000 linhas, este conjunto de dados proporciona uma visão abrangente das técnicas e abordagens utilizadas ao lidar com grandes volumes de dados. Todo o fluxo de trabalho é detalhado em um <b>Jupyter Notebook</b>, disponível no repositório GitHub, permitindo uma compreensão completa de cada etapa do processo, desde a configuração do ambiente PySpark até as análises mais complexas. Através de análises específicas de marcas e produtos, foi claro investigar questões como a relação entre a classificação e o número de avaliações, fornecendo gráficos e insights valiosos.</p>
+
+-----------------------
 
 ### Dashboard de Vendas (Excel)
 ![Excel](/assets/img/Excel.jpg)
