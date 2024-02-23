@@ -83,7 +83,8 @@ Sheets
 - Experiências culturais na aprendizagem da língua adicional: FATEC Mogi das Cruzes - Certificado Projeto de Inglês
 
 ## Leituras
-<p align="justify">1. Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios, <b>Cole Nussbaumer Knaflic (2015)</b>.</p>
+- <p align="justify"> Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios, <b>Cole Nussbaumer Knaflic (2015)</b>.</p>
+
 
 ## Contatos
 [Linkedin](https://www.linkedin.com/in/caio-paulino/): linkedin.com/in/caio-paulino/<br>
