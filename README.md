@@ -31,6 +31,14 @@ Sheets
 
 -----------------------
 
+### Relatório Dashboard: Spotify (Power BI, PowerPoint e Python)
+![Tableau](/assets/img/PowerBI.png)
+[Acesso Repositório Github](https://github.com/caioypaulino/Projeto-PowerBI_Spotify)
+ 
+<p align="justify">A seguinte proposta envolveu a análise e visualização de dados do Spotify utilizando o <b>Power BI</b>, <b>PowerPoint</b> e <b>Python</b>. Aproveitando um dataset do Kaggle, que contém informações sobre as músicas mais populares de 2023 no Spotify, foram extraídas métricas como nome da música, artistas, streams, entre outras. Para enriquecer os dados, um script Python foi desenvolvido para buscar as imagens de capa dos álbuns através da API do Spotify e integrá-las ao DataFrame pandas. O PowerPoint foi utilizado para criar um background personalizado para o Dashboard. Por fim, no Power BI, foram realizadas análises e insights utilizando funções DAX, como média de streams por ano, comparação entre a música mais popular e a média, entre outras métricas. O resultado final foi um painel interativo, incorporando todas as análises e insights gerados, com uma estética visual atraente.</p>
+
+-----------------------
+
 ### Pipeline de Análise de Dados: London Bike Sharing (Python e Tableau)
 ![Tableau](/assets/img/Tableau.jpg)
 [Acesso Repositório Github](https://github.com/caioypaulino/Projeto-Coletar_Visualizar_Dados)
