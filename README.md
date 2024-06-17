@@ -9,9 +9,13 @@
 - Técnico, Informática para Internet	| ETEC de Poá (_Dezembro 2019_)	 			        		
 
 ## Experiência Profissional
-**Estagiário TI Help Desk @ Prefeitura Municipal de Itaquaquecetuba (_Abril 2023 - Presente_)**
+**Desenvolvedor Java Trainee @ Sil Tecnologia Em Software Ltda (_Maio 2024 - Presente)**
+- Atendimento a Ordens de Serviços derivadas (desenvolvimento, manutenção, relatórios, etc).
+- **Desenvolvendo e Aplicando Conhecimentos em:** Java, MS SQL Server, T-SQL, Javascript, Jaspersoft Studio.
+
+**Estagiário TI Help Desk @ Prefeitura Municipal de Itaquaquecetuba (_Abril 2023 - Maio 2024)**
 - Atendimento a 26 Secretárias Públicas via plataforma de suporte e solicitação de chamados técnicos.
-- **Desenvolvendo conhecimentos em:** Redes, Analise de Dados, Banco
+- **Conhecimentos Desenvolvidos e Aplicados em:** Redes, Analise de Dados, Banco
 de Dados, Planilhas de Dados, Geração de Relatórios, BI, Hardware e
 Desenvolvimento Web.
 
