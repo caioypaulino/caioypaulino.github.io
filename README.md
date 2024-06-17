@@ -9,11 +9,11 @@
 - Técnico, Informática para Internet	| ETEC de Poá (_Dezembro 2019_)	 			        		
 
 ## Experiência Profissional
-**Desenvolvedor Java Trainee @ Sil Tecnologia Em Software Ltda (_Maio 2024 - Presente)**
+**Desenvolvedor Java Trainee @ Sil Tecnologia Em Software Ltda (_Maio 2024 - Presente_)**
 - Atendimento a Ordens de Serviços derivadas (desenvolvimento, manutenção, relatórios, etc).
 - **Desenvolvendo e Aplicando Conhecimentos em:** Java, MS SQL Server, T-SQL, Javascript, Jaspersoft Studio.
 
-**Estagiário TI Help Desk @ Prefeitura Municipal de Itaquaquecetuba (_Abril 2023 - Maio 2024)**
+**Estagiário TI Help Desk @ Prefeitura Municipal de Itaquaquecetuba (_Abril 2023 - Maio 2024_)**
 - Atendimento a 26 Secretárias Públicas via plataforma de suporte e solicitação de chamados técnicos.
 - **Conhecimentos Desenvolvidos e Aplicados em:** Redes, Analise de Dados, Banco
 de Dados, Planilhas de Dados, Geração de Relatórios, BI, Hardware e
