@@ -10,6 +10,7 @@
 
 ## Experiência Profissional
 **Desenvolvedor de Software Junior @ Sil Tecnologia Em Software Ltda (_Fevereiro 2025 - Presente_)**
+
 **Desenvolvedor de Software Trainee @ Sil Tecnologia Em Software Ltda (_Maio 2024 - Fevereiro 2025_)**
 - Atendimento a Ordens de Serviços derivadas (desenvolvimento, manutenção, relatórios, etc).
 - **Desenvolvendo e Aplicando Conhecimentos em:** Java, MS SQL Server, T-SQL, Javascript, Jaspersoft Studio.
