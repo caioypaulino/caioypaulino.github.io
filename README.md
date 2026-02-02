@@ -5,11 +5,12 @@
 #### Main Skills: SQL, Python, Power BI, Excel
 
 ## Formação
-- Tecnólogo, Análise e Desenvolvimento de Sistemas | FATEC Mogi das Cruzes (_Em Curso_)								       		
+- Tecnólogo, Análise e Desenvolvimento de Sistemas | FATEC Mogi das Cruzes (_Julho 2024_)								       		
 - Técnico, Informática para Internet	| ETEC de Poá (_Dezembro 2019_)	 			        		
 
 ## Experiência Profissional
-**Desenvolvedor Java Trainee @ Sil Tecnologia Em Software Ltda (_Maio 2024 - Presente_)**
+**Desenvolvedor de Software Junior @ Sil Tecnologia Em Software Ltda (_Fevereiro 2025 - Presente_)**
+**Desenvolvedor de Software Trainee @ Sil Tecnologia Em Software Ltda (_Maio 2024 - Fevereiro 2025_)**
 - Atendimento a Ordens de Serviços derivadas (desenvolvimento, manutenção, relatórios, etc).
 - **Desenvolvendo e Aplicando Conhecimentos em:** Java, MS SQL Server, T-SQL, Javascript, Jaspersoft Studio.
 
@@ -76,7 +77,7 @@ Sheets
 -----------------------
 
 ## Sobre Mim
-<p align="justify">Prazer! Meu nome é Caio. Nasci no dia 20 de Dezembro de 2002 (21 anos) e atualmente moro em Itaquaquecetuba - SP.</p>
+<p align="justify">Prazer! Meu nome é Caio. Nasci no dia 20 de Dezembro de 2002 (23 anos) e atualmente moro em Itaquaquecetuba - SP.</p>
 
 <p align="justify">Busco uma oportunidade para ingressar na carreira de dados como Analista de Dados, Engenheiro de Dados ou Analista de BI.</p>
 
